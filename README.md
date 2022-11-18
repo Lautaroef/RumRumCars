@@ -22,8 +22,7 @@ For **styling** and organizing all the CSS i choosed the Sass preprocessor. Also
 [**React hook form**](https://react-hook-form.com/ "React Hook Form website") was used to handle errors on the "Sell a Car" page and for the Firebase authentication form.
 
 ## Firebase
-I used the Firebase service to implement **User Authentication** on the website.<br/>
-Also **Firebase hosting** was used to... well.
+Used Firebase services to implement **User Authentication** on the website and **Firebase hosting** to host the Front and Backend.
 
 ## Image storing on the cloud.
 And for posting and receiving the car images i used [Cloudinary](https://cloudinary.com/ "Cloudinary website") service.
