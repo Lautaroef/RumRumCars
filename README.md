@@ -4,14 +4,14 @@
 
 
 <div style="display: flex;">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" width=50 />
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" alt="Redux" width=50 />
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="Sass" width=50 />
-<img src="https://pgjones.dev/tozo/frontend/img/material-ui.png" alt="MaterialUI" height=50/>
-<img src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png" alt="MongoDB" width=55 style="margin-top: 20px;"/>
-<img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg" alt="NodeJS" height=50/>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt="Express" height=50/>
-<img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-built_white.png?hl=es-419" alt="Firebase" height=50/> 
+<img src="https://raw.githubusercontent.com/Lautaroef/portfolio/c2dfd0e0f764bbac8dad4cb7b91779f6e68c0113/src/images/technologies-svg/react-js.svg" alt="React" width=50 />
+<img src="https://raw.githubusercontent.com/Lautaroef/portfolio/c2dfd0e0f764bbac8dad4cb7b91779f6e68c0113/src/images/technologies-svg/redux.svg" alt="Redux" width=50 />
+<img src="https://raw.githubusercontent.com/Lautaroef/portfolio/c2dfd0e0f764bbac8dad4cb7b91779f6e68c0113/src/images/technologies-svg/sass.svg" alt="Sass" width=50 />
+<img src="https://raw.githubusercontent.com/Lautaroef/portfolio/c2dfd0e0f764bbac8dad4cb7b91779f6e68c0113/src/images/technologies-svg/material-ui.svg" alt="MaterialUI" height=50/>
+<img src="https://raw.githubusercontent.com/Lautaroef/portfolio/c2dfd0e0f764bbac8dad4cb7b91779f6e68c0113/src/images/technologies-svg/mongodb.svg" alt="MongoDB" width=55 style="margin-top: 20px;"/>
+<img src="https://raw.githubusercontent.com/Lautaroef/portfolio/c2dfd0e0f764bbac8dad4cb7b91779f6e68c0113/src/images/technologies-svg/node-js.svg" alt="Node.js" height=50/>
+<img src="https://raw.githubusercontent.com/Lautaroef/portfolio/c2dfd0e0f764bbac8dad4cb7b91779f6e68c0113/src/images/technologies-svg/express.svg" alt="Express.js" height=50/>
+<img src="https://raw.githubusercontent.com/Lautaroef/portfolio/75fd78e851b20caec56970a836eccd83cc39ce92/src/images/technologies-svg/firebase.svg" alt="Firebase" height=50/> 
 <br/><br/>
 </div>
 
